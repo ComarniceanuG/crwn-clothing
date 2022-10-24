@@ -9,8 +9,7 @@ import {
   collection, 
   writeBatch, 
   query, 
-  getDocs,
-  QueryDocumentSnapshot
+  getDocs
 } from 'firebase/firestore';
 
 const config = {
